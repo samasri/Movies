@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet" type="text/css">
+		
+	</head>
+	<body>
+	<div id="test"></div>
+		<div id="content">
+			
+			<div id="header">
+				<img src="logo.gif">
+				<h2>Live your life, watch in ours</h2>
+			</div>
+			<div id="navigation">
+				<ul>
+					<li><a href="index.html">Homepage</a></li>
+					<li><a href="topCharts.html">Top Charts</a></li>
+					<li><a href="browse.html">Browse</a></li>
+					<li><a href="about.html">About</a></li>
+				</ul>
+			</div>
+			<div id="contactUs">
+				<label>Press contact:</label>
+				<a href = "mailto:press@moviecrawler.com">
+					press@moviecrawler.com
+				</a><br>
+				<label>Advertising: </label>
+				<a href="mailto:ad@moviecrawler.com">
+					ad@moviecrawler.com
+				</a><br>
+				<a href="work.html" id="work">
+					Work with us
+				</a>
+			</div>
+			<div id="about">
+				Mission: blablabla
+			</div>
+		</div>
+	</body>
+</html>
