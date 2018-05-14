@@ -1,0 +1,1 @@
+The website aims to facilitate the communication of a hypothetical movie rental shop and its customers. It shows all the available movies and facilitates the process of ordering movies and getting them delivered to the customer.
